@@ -1,0 +1,1 @@
+# New project. Udemy course 'Django for beginners' task 1
